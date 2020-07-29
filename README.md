@@ -1,6 +1,6 @@
 # Hello World, I'm Rafael 💻🇧🇷🇯🇵🇺🇸
 
-I am a full stack software engineer with a strong front-end focus.
+I am a full stack software engineer obessessed with building cool stuff.
 
 ## Check out my:
 - Portfolio Website 👉 <a href="http://rafaelviana.io/">rafaelviana.io</a> 📒
