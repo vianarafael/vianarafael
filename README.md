@@ -1,12 +1,12 @@
 
 
 ```ts
-app.get('/rafael', (req, res) => {
+app.get("/rafael", (req, res) => {
   res.send({
-    name: 'Rafael Viana',
-    twitter: '@vianarafaelds',
-    linkedin: '/in/rafael-viana',
-    website: 'rafaelviana.io'
+    name: "Rafael Viana",
+    twitter: "@vianarafaelds",
+    linkedin: "/in/rafael-viana",
+    website: "rafaelviana.io"
   })
 })
 ```
