@@ -1,5 +1,15 @@
 
-# Hello World, I'm Rafael!
+
+```ts
+app.get('/rafael', (req, res) => {
+  res.send({
+    name: 'Rafael Viana',
+    twitter: '@vianarafaelds',
+    website: 'rafaelviana.io',
+    linkedin: 'rafael-viana'
+  })
+})
+```
 
 <img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true" />
 
