@@ -5,7 +5,7 @@ app.get('/rafael', (req, res) => {
   res.send({
     name: 'Rafael Viana',
     twitter: '@vianarafaelds',
-    linkedin: 'rafael-viana',
+    linkedin: '/in/rafael-viana',
     website: 'rafaelviana.io'
   })
 })
