@@ -1,4 +1,6 @@
-
+```
+npx @vianarafael/business-card
+```
 
 ```ts
 app.get("/rafael", (req, res) => {
