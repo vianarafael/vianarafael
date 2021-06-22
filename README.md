@@ -1,5 +1,5 @@
 ```
-npx @vianarafael/business-card
+npx rafael-info
 ```
 
 ```ts
