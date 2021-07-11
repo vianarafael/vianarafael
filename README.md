@@ -19,6 +19,7 @@ app.get("/rafael", (req, res) => {
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white)
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
 
