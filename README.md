@@ -16,17 +16,16 @@ app.get("/rafael", (req, res) => {
 <img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true" />
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
 
-
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white)
-![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
