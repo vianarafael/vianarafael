@@ -25,12 +25,11 @@ app.get("/rafael", (req, res) => {
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
 
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white)
-
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white)
