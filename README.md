@@ -17,10 +17,12 @@ app.get("/rafael", (req, res) => {
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
 
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
 
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
