@@ -4,8 +4,8 @@ npx rafael-info
 ```
 
 
-### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I'm a digital bricklayer building stuff, brick by brick ...
-<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  -->
+### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I'm a digital bricklayer building stuff, brick by brick 
+
 
 ```javascript
 app.get("/rafael", (req, res) => {
@@ -20,8 +20,6 @@ app.get("/rafael", (req, res) => {
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-viana)](https://www.linkedin.com/in/rafael-viana)
-<!-- [![Blog Badge](https://img.shields.io/badge/Blog-0b4364??style=flat-square&logo=JavaScript&logoColor=white&link=https://www.rafaelviana.io)](https://www.rafaelviana.io)
- -->
 
 <img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true" />
 <!-- 
