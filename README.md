@@ -14,7 +14,8 @@ app.get("/rafael", (req, res) => {
     twitter: "@vianarafaelds",
     linkedin: "/in/rafael-viana",
     website: "rafaelviana.io",
-    locales: ["en-US", "ja", "pt-BR"],
+    codepen: "/vianarafael'
+    locales: ["en-US", "ja-JP", "pt-BR"],
     defaultLocale: "pt-BR"
   })
 })
@@ -22,7 +23,7 @@ app.get("/rafael", (req, res) => {
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-viana)](https://www.linkedin.com/in/rafael-viana)
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Codepen-0d5078?style=flat-square&logo=Codepen&logoColor=white&link=https://www.linkedin.com/in/rafael-viana)](https://www.linkedin.com/in/rafael-viana) -->
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-0d5078?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/vianarafael)](https://codepen.io/vianarafael)
 
 <img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true" />
 <!-- 
