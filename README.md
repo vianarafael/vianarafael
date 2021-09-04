@@ -4,7 +4,7 @@ npx rafael-info
 ```
 
 
-### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I'm a digital bricklayer building stuff, brick by brick.
+### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I'm a digital bricklayer building stuff, brick by brick ...
 
 
 ```javascript
@@ -13,7 +13,9 @@ app.get("/rafael", (req, res) => {
     name: "Rafael Viana",
     twitter: "@vianarafaelds",
     linkedin: "/in/rafael-viana",
-    website: "rafaelviana.io"
+    website: "rafaelviana.io",
+    locales: ["en-US", "ja", "pt-BR"],
+    defaultLocale: "pt-BR"
   })
 })
 ```
