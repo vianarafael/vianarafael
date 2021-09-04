@@ -4,7 +4,7 @@ npx rafael-info
 ```
 
 
-### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I'm a digital bricklayer - building stuff, brick by brick ...
+### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I'm a digital bricklayer - building stuff brick by brick ...
 
 
 ```javascript
