@@ -15,7 +15,6 @@ app.get("/rafael", (req, res) => {
     name: "Rafael Viana",
     twitter: "@vianarafaelds",
     linkedin: "/in/rafael-viana",
-    codepen: "/vianarafael",
     locales: ["en-US", "ja-JP", "pt-BR"],
     defaultLocale: "pt-BR",
   })
