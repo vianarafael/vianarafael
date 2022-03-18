@@ -13,6 +13,7 @@ npx rafael-info
 app.get("/rafael", (req, res) => {
   res.send({
     name: "Rafael Viana",
+    website: "www.rafaelviana.io"
     twitter: "@vianarafaelds",
     linkedin: "/in/rafael-viana",
     locales: ["en-US", "ja-JP", "pt-BR"],
