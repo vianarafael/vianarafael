@@ -13,9 +13,12 @@ npx rafael-info
 app.get("/rafael", (req, res) => {
   res.send({
     name: "Rafael Viana",
-    website: "www.rafaelviana.io"
-    twitter: "@vianarafaelds",
-    linkedin: "/in/rafael-viana",
+    socialLinks: [
+      { personalWebsite: "www.rafaelviana.io"},
+      { twitter: "@vianarafaelds" },
+      { linkedin: "/in/rafael-viana" },
+      { stackOverflow: "https://stackoverflow.com/users/6879869/rafael-viana",
+    ],
     locales: ["en-US", "ja-JP", "pt-BR"],
     defaultLocale: "pt-BR",
   })
