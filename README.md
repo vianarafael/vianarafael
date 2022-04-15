@@ -14,7 +14,6 @@ app.get("/rafael", (req, res) => {
   res.send({
     name: "Rafael Viana",
     socialLinks: [
-      { personalWebsite: "www.rafaelviana.io"},
       { twitter: "@vianarafaelds" },
       { linkedin: "/in/rafael-viana" },
       { stackOverflow: "https://stackoverflow.com/users/6879869/rafael-viana" },
