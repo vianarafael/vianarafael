@@ -16,6 +16,7 @@ app.get("/rafael", (req, res) => {
     socialLinks: [
       { twitter: "@vianarafaelds" },
       { linkedin: "/in/rafael-viana" },
+      { website: "www.rafaelviana.io" },
       { stackOverflow: "https://stackoverflow.com/users/6879869/rafael-viana" },
     ],
     locales: ["en-US", "ja-JP", "pt-BR"],
