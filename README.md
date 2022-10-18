@@ -10,7 +10,7 @@ npx rafael-info
 
 
 ```javascript
-app.get("/rafael", (req, res) => {
+app.get("/rafael",(req: Request, res: Response) => {
   res.send({
     name: "Rafael Viana",
     socialLinks: [
