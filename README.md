@@ -26,6 +26,7 @@ app.get("/rafael",(req, res) => {
 ```
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-viana)](https://www.linkedin.com/in/rafael-viana)
+[![Amazon Badge](https://img.shields.io/badge/-Amazon-red?style=flat-square&logo=Amazon&logoColor=white&link=[https://www.linkedin.com/in/rafael-viana](https://www.amazon.co.jp/%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%8A/dp/4757439911/))](https://www.amazon.co.jp/%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%8A/dp/4757439911/)
 
 
 <img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true" />
