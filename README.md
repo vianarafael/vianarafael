@@ -18,7 +18,7 @@ def rafael():
             {"twitter": "@vianarafaelds"},
             {"linkedin": "/in/rafael-viana"},
             {"website": "www.rafaelviana.io"},
-            {"stackOverflow": "https://stackoverflow.com/users/6879869/rafael-viana"}
+            {"stackoverflow": "https://stackoverflow.com/users/6879869/rafael-viana"}
         ],
         "locales": ["en-US", "ja-JP", "pt-BR"],
         "default_locale": "pt-BR"
