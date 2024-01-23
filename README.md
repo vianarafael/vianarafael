@@ -9,20 +9,19 @@ npx rafael-info
 ### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I build stuff, invest in creativity, and embrace technology
 
 
-```javascript
-app.get("/rafael",(req, res) => {
-  res.send({
-    name: "Rafael Viana",
-    socialLinks: [
-      { twitter: "@vianarafaelds" },
-      { linkedin: "/in/rafael-viana" },
-      { website: "www.rafaelviana.io" },
-      { stackOverflow: "https://stackoverflow.com/users/6879869/rafael-viana" },
-    ],
-    locales: ["en-US", "ja-JP", "pt-BR"],
-    defaultLocale: "pt-BR",
-  })
-})
+```python
+def rafael():
+    return jsonify({
+        "name": "Rafael Viana",
+        "social_links": [
+            {"twitter": "@vianarafaelds"},
+            {"linkedin": "/in/rafael-viana"},
+            {"website": "www.rafaelviana.io"},
+            {"stackOverflow": "https://stackoverflow.com/users/6879869/rafael-viana"}
+        ],
+        "locales": ["en-US", "ja-JP", "pt-BR"],
+        "default_locale": "pt-BR"
+    })
 ```
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-viana)](https://www.linkedin.com/in/rafael-viana)
