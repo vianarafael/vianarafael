@@ -10,6 +10,7 @@ npx rafael-info
 
 
 ```python
+@app.route("/rafael")
 def rafael():
     return jsonify({
         "name": "Rafael Viana",
