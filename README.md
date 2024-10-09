@@ -1,4 +1,5 @@
-### Hi, I'm Rafael
+### Hi, I'm Rafael 
+<img src="https://media3.giphy.com/media/OvxfjiuwwKfubBaLjr/giphy.gif" width="150" />
 
 👇 Hit in your terminal to connect with me.
 ```bash
