@@ -11,19 +11,19 @@ npx rafael-info
 
 
 ```javascript
-app.get('/rafael', (req, res) => {
-    res.json({
+export default function handler(req, res) {
+    res.status(200).json({
         name: "Rafael Viana",
         social_links: [
             { twitter: "@vianarafaelds" },
             { linkedin: "/in/rafael-viana" },
-            { website: "www.rafaelviana.io" },
-            { stackoverflow: "https://stackoverflow.com/users/6879869/rafael-viana" }
+            { newsletter: "www.rafaelviana.io" },
+            { website: "www.rafaellab.com" }
         ],
         locales: ["en-US", "ja-JP", "pt-BR"],
         default_locale: "pt-BR"
     });
-});
+}
 ```
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-viana)](https://www.linkedin.com/in/rafael-viana)
