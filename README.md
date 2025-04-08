@@ -19,8 +19,7 @@ export function rafaelInfo() {
     social_links: [
       { twitter: "@vianarafaelds" },
       { linkedin: "/in/rafael-viana" },
-      { newsletter: "www.rafaelviana.io" },
-      { website: "www.rafaellab.com" },
+      { website: "www.rafaelviana.io" },
     ],
     locales: ["en-US", "ja-JP", "pt-BR"],
     default_locale: "pt-BR",
