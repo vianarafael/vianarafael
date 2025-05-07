@@ -18,7 +18,7 @@ def rafael_info():
             {"twitter": "@vianarafaelds"},
             {"linkedin": "/in/rafael-viana"},
             {"website": "www.rafaelviana.io"},
-            {"kaggle": "/vianarafaelds"}
+            {"hugging_face": "/vianarafael"}
         ],
         "locales": ["en-US", "ja-JP", "pt-BR"],
         "default_locale": "pt-BR",
