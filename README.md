@@ -17,7 +17,7 @@ def rafael_info():
         "social_links": [
             {"twitter": "@vianarafaelds"},
             {"linkedin": "/in/rafael-viana"},
-            {"website": "www.rafaelviana.io"},
+            {"website": "rafaelviana.com"},
             {"hugging_face": "/vianarafael"}
         ],
         "locales": ["en-US", "ja-JP", "pt-BR"],
