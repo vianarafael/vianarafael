@@ -1,13 +1,13 @@
 ### Hi, I'm Rafael 
 <img src="https://media3.giphy.com/media/OvxfjiuwwKfubBaLjr/giphy.gif" width="150" />
 
-👇 Hit in your terminal to connect with me.
+👇 Hit in your terminal to connect with me (it won’t mine crypto... probably).
 ```bash
 npx rafael-info
 ```
 
 
-### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> I build stuff, invest in creativity, and embrace technology
+### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> Building dumb ideas until they stop being dumb.
 
 
 ```typescript
@@ -22,12 +22,15 @@ function rafaelInfo() {
     { place: "hugging_face", handle: "/vianarafael" }
   ];
 
+  const stack: ["Hono", "HTMX", "SQLite", "AI", "regret"],
+
   const locales = ["en-US", "ja-JP", "pt-BR"]
   const default_locale = locales[2]
 
   return {
     name,
     socials,
+    stack,
     locales,
     default_locale,
     created_at: memory.toISOString(),
