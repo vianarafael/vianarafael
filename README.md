@@ -12,19 +12,27 @@ npx rafael-info
 
 ```typescript
 function rafaelInfo() {
-  const response = {
-    name: "Rafael Viana",
-    social_links: [
-      { twitter: "@vianarafaelds" },
-      { linkedin: "/in/rafael-viana" },
-      { website: "rafaelviana.com" },
-      { hugging_face: "/vianarafael" }
-    ],
-    locales: ["en-US", "ja-JP", "pt-BR"],
-    default_locale: "pt-BR"
-  };
+  const memory = new Date();
+  const name = "Rafael Viana";
 
-  return response;
+  const socials = [
+    { place: "X/twitter", handle: "@vianarafaelds" },
+    { place: "website", handle: "rafaelviana.com" },
+    { place: "linkedin", handle: "/in/rafael-viana" },
+    { place: "hugging_face", handle: "/vianarafael" }
+  ];
+
+  const locales = ["en-US", "ja-JP", "pt-BR"];
+  const default_locale = locales[2];
+
+  return {
+    name,
+    socials,
+    locales,
+    default_locale,
+    created_at: memory.toISOString(),
+    feeling: "slightly caffeinated, vaguely hopeful"
+  };
 }
 ```
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
