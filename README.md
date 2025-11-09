@@ -12,8 +12,8 @@ npx rafael-info
 
 ```typescript
 function rafaelInfo() {
-  const memory = new Date();
-  const name = "Rafael Viana";
+  const memory = new Date()
+  const name = "Rafael Viana"
 
   const socials = [
     { place: "X/twitter", handle: "@vianarafaelds" },
@@ -22,8 +22,8 @@ function rafaelInfo() {
     { place: "hugging_face", handle: "/vianarafael" }
   ];
 
-  const locales = ["en-US", "ja-JP", "pt-BR"];
-  const default_locale = locales[2];
+  const locales = ["en-US", "ja-JP", "pt-BR"]
+  const default_locale = locales[2]
 
   return {
     name,
