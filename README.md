@@ -22,7 +22,7 @@ function rafaelInfo() {
     { place: "hugging_face", handle: "/vianarafael" }
   ];
 
-  const stack: ["Hono", "HTMX", "SQLite", "AI", "regret"]
+  const stack = ["Hono", "HTMX", "SQLite", "AI", "regret"]
 
   const locales = ["en-US", "ja-JP", "pt-BR"]
   const default_locale = locales[2]
