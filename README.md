@@ -12,30 +12,20 @@ npx rafael-info
 
 ```typescript
 function rafaelInfo() {
-  const memory = new Date()
-  const name = "Rafael Viana"
-
-  const socials = [
-    { place: "website", handle: "rafaelviana.com" },
-    { place: "X/twitter", handle: "@vianarafaelds" },
-    { place: "linkedin", handle: "/in/rafael-viana" },
-    { place: "youtube", handle: "Coming Soon..." }
-  ];
-
-  const stack = ["Hono", "HTMX", "SQLite", "AI", "regret"]
-
-  const locales = ["en-US", "ja-JP", "pt-BR"]
-  const default_locale = locales[2]
+  const name = "Rafael Viana";
+  const stack = ["Hono", "HTMX", "SQLite", "Automation", "AI"];
+  const motto = "Ship small. Automate what's boring.";
+  const locales = ["en-US", "ja-JP", "pt-BR"];
 
   return {
     name,
-    socials,
+    motto,
     stack,
-    locales,
-    default_locale,
-    created_at: memory.toISOString(),
-    feeling: "slightly caffeinated, vaguely hopeful"
-  };
+    socials: [
+      { web: "shipdai.ly" },
+      { x: "@vianarafaelds" },
+      { yt: "coming soon" }
+    ],
 }
 ```
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
