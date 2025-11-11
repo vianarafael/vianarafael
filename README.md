@@ -16,10 +16,10 @@ function rafaelInfo() {
   const name = "Rafael Viana"
 
   const socials = [
-    { place: "X/twitter", handle: "@vianarafaelds" },
     { place: "website", handle: "rafaelviana.com" },
+    { place: "X/twitter", handle: "@vianarafaelds" },
     { place: "linkedin", handle: "/in/rafael-viana" },
-    { place: "hugging_face", handle: "/vianarafael" }
+    { place: "youtube", handle: "Coming Soon..." }
   ];
 
   const stack = ["Hono", "HTMX", "SQLite", "AI", "regret"]
