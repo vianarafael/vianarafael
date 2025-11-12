@@ -2,10 +2,13 @@
 <img src="https://media3.giphy.com/media/OvxfjiuwwKfubBaLjr/giphy.gif" width="150" />
 
 👇 Hit in your terminal to connect with me (it won’t mine crypto... probably).
-```bash
-npx rafael-info
-```
 
+[![npx rafael-info](https://img.shields.io/badge/npx-rafael--info-2b3339?style=for-the-badge&labelColor=a7c080&logo=npm&logoColor=2b3339)](#-hit-in-your-terminal-to-connect-with-me-it-won’t-mine-crypto-probably)
+
+
+```bash
+npx rafael-infonpx rafael-info
+```
 
 ### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> Building dumb ideas until they stop being dumb.
 
@@ -35,6 +38,10 @@ function rafaelInfo() {
 
 
 <img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icon_color=7fbbb3" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafael&layout=compact&hide_border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white)
@@ -60,7 +67,4 @@ function rafaelInfo() {
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white) -->
 
-### 🧠 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafael&layout=compact&hide_border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide_border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icon_color=7fbbb3" />
