@@ -34,7 +34,7 @@ function rafaelInfo() {
 [![Amazon Badge](https://img.shields.io/badge/-Amazon-red?style=flat-square&logo=Amazon&logoColor=white&link=[https://www.linkedin.com/in/rafael-viana](https://www.amazon.co.jp/%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%8A/dp/4757439911/))](https://www.amazon.co.jp/%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%8A/dp/4757439911/)
 
 
-<img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true" />
+<img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icon_color=7fbbb3" />
 <!-- 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white)
@@ -61,5 +61,6 @@ function rafaelInfo() {
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white) -->
 
 ### 🧠 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafael&layout=compact&hide_border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafael&layout=compact&theme=everforest-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide_border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icon_color=7fbbb3" />
