@@ -19,6 +19,7 @@ function rafaelInfo() {
   const stack = ["Hono", "HTMX", "SQLite", "Automation", "AI"];
   const motto = "Ship small. Automate what's boring.";
   const locales = ["en-US", "ja-JP", "pt-BR"];
+  const colorscheme = "everforest" as const
 
   return {
     name,
