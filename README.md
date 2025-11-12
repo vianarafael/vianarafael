@@ -60,3 +60,6 @@ function rafaelInfo() {
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white) -->
 
+### 🧠 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafael&layout=compact&theme=everforest-dark)](https://github.com/anuraghazra/github-readme-stats)
