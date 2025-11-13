@@ -40,6 +40,7 @@ function rafaelInfo() {
     ],
     state: "slightly caffeinated, vaguely hopeful",
     mode: "ShipDailer",
+
     // Internal runtime.
     brain: {
       cache: "90% memes",
