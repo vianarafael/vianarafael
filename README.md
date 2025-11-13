@@ -38,7 +38,14 @@ function rafaelInfo() {
       { x: "@vianarafaelds" },
       { yt: "coming soon" }
     ],
-    state: "slightly caffeinated, vaguely hopeful"
+    state: "slightly caffeinated, vaguely hopeful",
+    mode: "ShipDailer",
+    // Internal runtime.
+    brain: {
+      cache: "90% memes",
+      gc: "runs whenever I listen to Led Zeppelin IV",
+      version: "0.0.0-dev"
+    }
 }
 ```
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vianarafaelds)](https://twitter.com/vianarafaelds)
