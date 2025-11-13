@@ -39,7 +39,7 @@ function rafaelInfo() {
       { yt: "coming soon" }
     ],
     state: "slightly caffeinated, vaguely hopeful",
-    mode: "ShipDailer",
+    class: "ShipDailer",
 
     // Internal runtime.
     brain: {
