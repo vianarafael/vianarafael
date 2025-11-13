@@ -16,14 +16,22 @@ npx rafael-infonpx rafael-info
 ```typescript
 function rafaelInfo() {
   const name = "Rafael Viana";
-  const stack = ["Hono", "HTMX", "SQLite", "Automation", "AI"];
-  const motto = "Ship small. Automate what's boring.";
+
+  // The one held together by tape but ships apps anyway.
+  const stack = [
+    "Hono",
+    "HTMX",
+    "SQLite",
+    "Automation",
+    "AI",
+    "mild chaos" // the real engine
+  ];
+
   const locales = ["en-US", "ja-JP", "pt-BR"];
   const colorscheme = "everforest" as const;
 
   return {
     name,
-    motto,
     stack,
     socials: [
       { web: "shipdai.ly" },
