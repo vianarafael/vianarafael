@@ -27,7 +27,7 @@ function rafaelInfo() {
     "mild chaos" // the real engine
   ];
 
-  const locales = ["en-US", "ja-JP", "pt-BR"];
+  const locales = ["en-US", "ja-JP", "pt-BR"] as const;
   const colorscheme = "everforest" as const;
 
   return {
