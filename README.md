@@ -37,9 +37,10 @@ function rafaelInfo() {
     colorscheme,
     socials: [
       { web: "shipdai.ly" },
-      { digitalGarden: "rafaelviana.com" },
       { x: "@vianarafaelds" },
-      { yt: "coming soon" }
+      { yt: "coming soon" },
+      { garden: "rafaelviana.com" },
+      { insta: "@vianarafaelds" }
     ],
     state: "slightly caffeinated, vaguely hopeful",
     class: "ShipDailer",
