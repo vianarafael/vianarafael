@@ -32,7 +32,9 @@ function rafaelInfo() {
 
   return {
     name,
-    stack,
+    stack: [...stack],
+    locales: [...locales],
+    colorscheme,
     socials: [
       { web: "shipdai.ly" },
       { x: "@vianarafaelds" },
