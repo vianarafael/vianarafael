@@ -37,6 +37,7 @@ function rafaelInfo() {
     colorscheme,
     socials: [
       { web: "shipdai.ly" },
+      { digitalGarden: "rafaelviana.com" },
       { x: "@vianarafaelds" },
       { yt: "coming soon" }
     ],
