@@ -38,9 +38,8 @@ function rafaelInfo() {
     socials: [
       { web: "shipdai.ly" },
       { x: "@vianarafaelds" },
-      { yt: "coming soon" },
+      { insta: "@vianarafaelds" },
       { garden: "rafaelviana.com" },
-      { insta: "@vianarafaelds" }
     ],
     state: "slightly caffeinated, vaguely hopeful",
     class: "ShipDailer",
