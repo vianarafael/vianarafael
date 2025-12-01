@@ -7,7 +7,7 @@
 
 
 ```bash
-npx rafael-infonpx rafael-info
+npx rafael-info
 ```
 
 ### <img src="https://media.giphy.com/media/VIEktWtrfbgLamQgek/giphy.gif" width="50" /> Building dumb ideas until they stop being dumb.
