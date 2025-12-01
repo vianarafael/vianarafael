@@ -59,8 +59,6 @@ function rafaelInfo() {
 <img alt="Rafael Viana Stats" src="https://github-readme-stats.vianarafael.vercel.app/api?username=vianarafael&show_icons=true&hide__border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icon_color=7fbbb3" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafael&layout=compact&hide_border=true&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white)
