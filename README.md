@@ -1,3 +1,30 @@
+You are a senior React + TypeScript engineer.
+
+I’m implementing a Perplexity-style “thread view” in a chat UI.
+
+Current problem:
+- The last user question is pinned at the top
+- But all earlier chat history still appears below, which is confusing
+
+Goal:
+- When `viewMode === "thread"`, show ONLY the messages that occurred AFTER the active question
+- The active question itself is rendered separately as a pinned header
+- All earlier history must be hidden
+
+Constraints:
+- Use the existing `messages` array
+- Use an existing `activeQuestionId: string | undefined`
+- Do NOT refactor unrelated code
+- Minimal, surgical change
+
+Implementation requirements:
+1. Compute the index of the active question in `messages`
+2. In `thread` mode, slice the messages from `(activeQuestionIndex + 1)`
+3. In non-thread mode, render all messages as before
+4. Keep the pinned question logic unchanged
+
+Please modify the code accordingly and show the exact diff.
+---
 ### Hi, I'm Rafael 
 <img src="https://media3.giphy.com/media/OvxfjiuwwKfubBaLjr/giphy.gif" width="150" />
 
