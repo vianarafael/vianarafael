@@ -47,7 +47,7 @@ function rafaelInfo() {
     // Internal runtime.
     brain: {
       cache: "90% memes",
-      gc: "runs whenever I listen to Kid A",
+      gc: "runs whenever I listen to Kid A or Led Zeppelin III",
       version: "0.0.0-dev"
     }
 }
