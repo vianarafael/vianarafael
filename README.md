@@ -38,7 +38,7 @@ function rafaelInfo() {
     colorscheme,
     socials: [
       { web: "rafaelviana.com" },
-      { x: "@vianarafaelds" },
+      { x: "@vianarafael" },
     ],
     state: "slightly caffeinated, vaguely hopeful",
     class: "ShipDailer",
