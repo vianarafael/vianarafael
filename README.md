@@ -37,9 +37,8 @@ function rafaelInfo() {
     locales: [...locales],
     colorscheme,
     socials: [
-      { web: "shipdai.ly" },
+      { web: "rafaelviana.com" },
       { x: "@vianarafaelds" },
-      { garden: "rafaelviana.com" },
     ],
     state: "slightly caffeinated, vaguely hopeful",
     class: "ShipDailer",
