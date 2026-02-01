@@ -20,6 +20,7 @@ function rafaelInfo() {
 
   // The one held together by tape but ships apps anyway.
   const stack = [
+    "Bun",
     "Hono",
     "HTMX",
     "SQLite",
