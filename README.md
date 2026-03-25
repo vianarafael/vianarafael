@@ -30,7 +30,7 @@ function rafaelInfo() {
   ];
 
   const locales = ["en-US", "ja-JP", "pt-BR"] as const;
-  const colorscheme = "everforest" as const;
+  const colorscheme = "monokai Pro" as const;
 
   return {
     name,
