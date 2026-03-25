@@ -42,7 +42,6 @@ function rafaelInfo() {
       { x: "@vianarafael" },
     ],
     state: "slightly caffeinated, vaguely hopeful",
-    class: "ShipDailer",
 
     // Internal runtime.
     brain: {
