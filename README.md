@@ -27,7 +27,7 @@ const stack = {
   python: "LLMs, notebooks, data glue",
   sqlite: "local-first, file-based, no ceremony",
   cplusplus: "game dev, lower-level curiosity",
-  cloud: "only when reality forces me",
+  cloud: "only when reality forces me (i.e. never, a VPS and a home lab are just fine)",
   chaos: "unfortunately, the engine",
 };
 
