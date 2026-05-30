@@ -50,7 +50,7 @@ const stack = {
     // Internal runtime.
     brain: {
       cache: "90% memes",
-      gc: "runs whenever I listen Radiohead or Bowie",
+      gc: "runs whenever I listen Zeppelin or Smiths",
       version: "0.0.0-dev"
     }
 }
