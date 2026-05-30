@@ -18,19 +18,23 @@ npx rafael-info
 function rafaelInfo() {
   const name = "Rafael Viana";
 
-  // The one held together by tape but ships apps anyway.
-  const stack = [
-    "Node",
-    "Hono",
-    "HTMX",
-    "SQLite",
-    "Automation",
-    "AI",
-    "mild chaos" // the real engine
-  ];
+```ts
+// Held together by duct tape, SQLite, and stubbornness.
+// Ships anyway.
+
+const stack = {
+  node: "web apps, APIs, automation",
+  python: "LLMs, notebooks, data glue",
+  sqlite: "local-first, file-based, no ceremony",
+  cplusplus: "game dev, lower-level curiosity",
+  cloud: "only when reality forces me",
+  chaos: "unfortunately, the engine",
+};
+```
+
 
   const locales = ["en-US", "ja-JP", "pt-BR"] as const;
-  const colorscheme = "monokai Pro" as const;
+  const colorscheme = "Everforest Light" as const;
 
   return {
     name,
