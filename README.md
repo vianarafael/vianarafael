@@ -18,7 +18,7 @@ npx rafael-info
 function rafaelInfo() {
   const name = "Rafael Viana";
 
-```ts
+
 // Held together by duct tape, SQLite, and stubbornness.
 // Ships anyway.
 
@@ -30,7 +30,7 @@ const stack = {
   cloud: "only when reality forces me",
   chaos: "unfortunately, the engine",
 };
-```
+
 
 
   const locales = ["en-US", "ja-JP", "pt-BR"] as const;
