@@ -23,11 +23,10 @@ function rafaelInfo() {
 // Ships anyway.
 
 const stack = {
-  node: "web apps, APIs, automation",
-  python: "LLMs, notebooks, data glue",
-  sqlite: "local-first, file-based, no ceremony",
-  cplusplus: "game dev, lower-level curiosity",
-  cloud: "only when reality forces me (i.e. never, a VPS and a home lab are just fine)",
+  node: "for web stuff",
+  python: "for AI stuff",
+  sqlite: "I want my data in a file",
+  cplusplus: "lower-level curiosity",
   chaos: "unfortunately, the engine",
 };
 
